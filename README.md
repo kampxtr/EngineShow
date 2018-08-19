@@ -32,7 +32,7 @@ https://github.com/kampxtr/LiberatorEngine
 
 # PBR volumetric light shaft (hold on !!! 2M picture here !!!)
 # ↓
-![](https://github.com/kampxtr/EngineShow/blob/master/screenshot/2018-8-12.png)
+![](https://github.com/kampxtr/LiberatorEngine/blob/master/screenshots/2018-8-11.png)
 <br>
 <br>
 <br>
