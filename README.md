@@ -24,6 +24,15 @@ https://github.com/kampxtr/LiberatorEngine
 <br>
 <br>
 
+### dynamic GI can also scale down to detail scene  (hold on !!! 2M picture here !!!)
+## ↓
+![](https://github.com/kampxtr/EngineShow/blob/master/screenshot/2018-9-20.png)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 # Terrain (hold on !!! 2M picture here !!!)
 # ↓
