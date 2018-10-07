@@ -13,6 +13,18 @@ https://github.com/kampxtr/LiberatorEngine
 <br>
 <br>
 <br>
+
+### support large scale scene, fully dynamic, fully real time GI  (hold on !!! 2M picture here !!!)
+## ↓
+![](https://github.com/kampxtr/EngineShow/blob/master/screenshot/2018-9-18.png)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 # Terrain (hold on !!! 2M picture here !!!)
 # ↓
 ![](https://github.com/kampxtr/EngineShow/blob/master/screenshot/2018-7-29.png)
