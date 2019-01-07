@@ -36,7 +36,7 @@ https://github.com/kampxtr/LiberatorEngine
 
 ### Terrain (hold on !!! 2M picture here !!!)
 # ↓
-![](https://github.com/kampxtr/EngineShow/blob/master/screenshot/2018-7-29.png)
+![](https://github.com/kampxtr/EngineShow/blob/master/screenshot/2018-7-22.png)
 <br>
 <br>
 <br>
@@ -44,15 +44,7 @@ https://github.com/kampxtr/LiberatorEngine
 <br>
 ***
 
-### Edit terrain without talent artist (hold on !!! 2M picture here !!!)
-# ↓
-![](https://github.com/kampxtr/EngineShow/blob/master/screenshot/2018-7-26.png)
-<br>
-<br>
-<br>
-<br>
-<br>
-***
+ 
 
 ### PBR volumetric light shaft (hold on !!! 2M picture here !!!)
 # ↓
