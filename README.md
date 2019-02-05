@@ -15,6 +15,27 @@ https://github.com/kampxtr/LiberatorEngine
 <br>
 
 
+### support large scale scene, fully dynamic, fully real time GI  (hold on !!! 2M picture here !!!)
+## ↓
+![](https://github.com/kampxtr/EngineShow/blob/master/screenshot/2018-5-20.png)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+### dynamic GI can also scale down to detail scene  (hold on !!! 2M picture here !!!)
+## ↓
+![](https://github.com/kampxtr/EngineShow/blob/master/screenshot/2018-5-20.png)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 ### up to hundreds of kilometers(16km x 16km) fully visible landscape (hold on !!! 2M picture here !!!)
 # ↓
 ![](https://github.com/kampxtr/EngineShow/blob/master/screenshot/2018-12-25.png)
@@ -34,31 +55,9 @@ https://github.com/kampxtr/LiberatorEngine
 ***
 
 
-### support large scale scene, fully dynamic, fully real time GI  (hold on !!! 2M picture here !!!)
-## ↓
-![](https://github.com/kampxtr/EngineShow/blob/master/screenshot/2018-9-18.png)
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-### dynamic GI can also scale down to detail scene  (hold on !!! 2M picture here !!!)
-## ↓
-![](https://github.com/kampxtr/EngineShow/blob/master/screenshot/2018-9-20.png)
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
- 
-
 ### PBR volumetric light shaft (hold on !!! 2M picture here !!!)
 # ↓
-![](https://github.com/kampxtr/EngineShow/blob/master/screenshot/2018-7-30.png)
+![](https://github.com/kampxtr/EngineShow/blob/master/screenshot/2018-9-19.png)
 <br>
 <br>
 <br>
