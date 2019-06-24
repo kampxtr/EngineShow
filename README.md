@@ -17,13 +17,18 @@ https://github.com/kampxtr/LiberatorEngine
 
 ### real time PTGI preview scene  (hold on !!! 2M gif here !!!)
 ## ↓
-![](https://github.com/kampxtr/EngineShow/blob/master/screenshot/2019-3-1.gif)
+
+
+|  |  |
+| --- | --- |
+|![](https://github.com/kampxtr/EngineShow/blob/master/screenshot/2019-3-1.gif) |  ![](https://github.com/kampxtr/EngineShow/blob/master/screenshot/2019-3-1.png)|
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
+
 
 ### support large scale scene, fully dynamic, fully real time GI  (hold on !!! 2M picture here !!!)
 ## ↓
